@@ -29,6 +29,3 @@ To deploy this machine learning model as an API, was used the following librarie
 
 This project combines the power of data science and machine learning to contribute to the early detection and accurate diagnosis of breast cancer. By making this model available as an API, we aim to provide a valuable tool for healthcare professionals and researchers in the field of oncology.
 
-# Link for api
-
-Render
